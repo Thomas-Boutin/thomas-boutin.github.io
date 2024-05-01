@@ -2,10 +2,8 @@
   {
     "key": "sncf",
     "name": "SNCF Connect & Tech",
-    "description": {
-      "fr": "SNCF Connect & Tech",
-      "en": "SNCF Connect & Tech"
-    },
+    "description_fr": "SNCF Connect & Tech",
+    "description_en": "SNCF Connect & Tech",
     "logo": "",
     "level": "gold",
     "url": "https://www.sncf-connect.com/",
@@ -14,10 +12,8 @@
   {
     "key": "mobiapps",
     "name": "Mobiapps",
-    "description": {
-      "fr": "MobiappsFr est une agence Mobile dédiée à la gestion d’infrastructures mobiles (EMM, MDM, sécurité…), à la conception (UX/UI), au développement d’applications mobiles multiplateformes (iOS, Android, web) et aux tests, basée à Nantes, Angers et Paris.\nLeur force est de proposer à leurs clients une approche et une méthodologie alliant innovation et industrialisation, en adéquation avec les besoins utilisateurs et les dernières technologies du marché.",
-      "en": "MobiappsFr is a Mobile agency dedicated to mobile infrastructure management (EMM, MDM, security...), design (UX/UI), development of multi-platform mobile applications (iOS, Android, web), and testing, based in Nantes, Angers, and Paris.\nTheir strength lies in offering their clients an approach and methodology that combines innovation and industrialization, in line with user needs and the latest market technologies."
-    },
+    "description_fr": "MobiappsFr est une agence Mobile dédiée à la gestion d’infrastructures mobiles (EMM, MDM, sécurité…), à la conception (UX/UI), au développement d’applications mobiles multiplateformes (iOS, Android, web) et aux tests, basée à Nantes, Angers et Paris.\nLeur force est de proposer à leurs clients une approche et une méthodologie alliant innovation et industrialisation, en adéquation avec les besoins utilisateurs et les dernières technologies du marché.",
+    "description_en": "MobiappsFr is a Mobile agency dedicated to mobile infrastructure management (EMM, MDM, security...), design (UX/UI), development of multi-platform mobile applications (iOS, Android, web), and testing, based in Nantes, Angers, and Paris.\nTheir strength lies in offering their clients an approach and methodology that combines innovation and industrialization, in line with user needs and the latest market technologies.",
     "logo": "mobiapps_logo.png",
     "level": "gold",
     "url": "https://www.mobiapps.fr/",
@@ -35,10 +31,8 @@
   {
     "key": "ippon",
     "name": "Ippon",
-    "description": {
-      "fr": "Ippon Technologies, c’est un cabinet de conseil et d'expertise en technologies, organisé en Practices, et regroupant 700 passionnés de tech, guidés par une énergie collective et un goût prononcé pour le challenge.\nDepuis 2012, Ippon accompagne ses clients sur la stratégie et le développement de leurs apps mobiles. Portée par leur Practice Mobile, une communauté de 30 passionnés, Ippon accompagne le développement d’apps mobiles que ce soit en natif Android, iOS ou en technologies multi-platform (Flutter, React Native…).",
-      "en": "Ippon Technologies is a technology consulting and expertise firm organized into practices, bringing together 700 tech enthusiasts driven by collective energy and a strong taste for challenges.\nSince 2012, Ippon has been assisting its clients with strategy and development of their mobile apps. Supported by their Mobile Practice, a community of 30 enthusiasts, Ippon facilitates the development of mobile apps, whether it's native Android, iOS, or using multi-platform technologies (Flutter, React Native...)."
-    },
+    "description_fr": "Ippon Technologies, c’est un cabinet de conseil et d'expertise en technologies, organisé en Practices, et regroupant 700 passionnés de tech, guidés par une énergie collective et un goût prononcé pour le challenge.\nDepuis 2012, Ippon accompagne ses clients sur la stratégie et le développement de leurs apps mobiles. Portée par leur Practice Mobile, une communauté de 30 passionnés, Ippon accompagne le développement d’apps mobiles que ce soit en natif Android, iOS ou en technologies multi-platform (Flutter, React Native…).",
+    "description_en": "Ippon Technologies is a technology consulting and expertise firm organized into practices, bringing together 700 tech enthusiasts driven by collective energy and a strong taste for challenges.\nSince 2012, Ippon has been assisting its clients with strategy and development of their mobile apps. Supported by their Mobile Practice, a community of 30 enthusiasts, Ippon facilitates the development of mobile apps, whether it's native Android, iOS, or using multi-platform technologies (Flutter, React Native...).",
     "logo": "ippon_logo.png",
     "level": "gold",
     "url": "https://fr.ippon.tech/",
@@ -47,10 +41,8 @@
   {
     "key": "uIris",
     "name": "U Iris",
-    "description": {
-      "fr": "U IRIS est la Direction des Systèmes d’Information du Groupement SYSTEME U.\nCréée en 2011, elle regroupe aujourd’hui 540 personnes.\nElle gère au quotidien 36 000 terminaux mobiles Samsung et Zebra grâce à la solution SOTI MobiControl, pour 1 600 points de vente, une 30aine d'entrepôts et les entités commerciales du Groupement U.\nEn termes de technos de dév, U IRIS développe la plupart de ses solutions en Kotlin et Vue.js.",
-      "en": "U IRIS is the Information Systems Directorate of the SYSTEME U Group.\nEstablished in 2011, it currently employs 540 people.\nOn a daily basis, it manages 36,000 Samsung and Zebra mobile devices using the SOTI MobiControl solution, covering 1,600 points of sale, around 30 warehouses, and the commercial entities of the U Group.\nIn terms of development technologies, U IRIS primarily develops its solutions using Kotlin and Vue.js."
-    },
+    "description_fr": "U IRIS est la Direction des Systèmes d’Information du Groupement SYSTEME U.\nCréée en 2011, elle regroupe aujourd’hui 540 personnes.\nElle gère au quotidien 36 000 terminaux mobiles Samsung et Zebra grâce à la solution SOTI MobiControl, pour 1 600 points de vente, une 30aine d'entrepôts et les entités commerciales du Groupement U.\nEn termes de technos de dév, U IRIS développe la plupart de ses solutions en Kotlin et Vue.js.",
+    "description_en": "U IRIS is the Information Systems Directorate of the SYSTEME U Group.\nEstablished in 2011, it currently employs 540 people.\nOn a daily basis, it manages 36,000 Samsung and Zebra mobile devices using the SOTI MobiControl solution, covering 1,600 points of sale, around 30 warehouses, and the commercial entities of the U Group.\nIn terms of development technologies, U IRIS primarily develops its solutions using Kotlin and Vue.js.",
     "logo": "iris_logo.png",
     "level": "silver",
     "url": "https://ugieiris.fr/",
@@ -59,10 +51,8 @@
   {
     "key": "bam",
     "name": "BAM",
-    "description": {
-      "fr": "Expert mobile du Groupe Theodo, Bam.tech conseille et accompagne ses clients dans la définition de leur stratégie digitale pour être leaders sur leur marché.\nLe métier de BAM : identifier avec ses clients une opportunité d’améliorer leur compétitivité ; concevoir et réaliser ensemble la solution sur-mesure pour l’adresser ; et leur transmettre de nouvelles méthodes de travail de manière durable grâce à une expertise mobile 360 produit, design, développement.",
-      "en": "As a mobile expert within the Theodo Group, Bam.tech advises and supports its clients in defining their digital strategy to become leaders in their market.\nBAM's expertise lies in identifying opportunities with their clients to improve their competitiveness, designing and implementing customized solutions to address them, and providing long-term knowledge transfer of new working methods through comprehensive mobile expertise in product, design, and development."
-    },
+    "description_fr": "Expert mobile du Groupe Theodo, Bam.tech conseille et accompagne ses clients dans la définition de leur stratégie digitale pour être leaders sur leur marché.\nLe métier de BAM : identifier avec ses clients une opportunité d’améliorer leur compétitivité ; concevoir et réaliser ensemble la solution sur-mesure pour l’adresser ; et leur transmettre de nouvelles méthodes de travail de manière durable grâce à une expertise mobile 360 produit, design, développement.",
+    "description_en": "As a mobile expert within the Theodo Group, Bam.tech advises and supports its clients in defining their digital strategy to become leaders in their market.\nBAM's expertise lies in identifying opportunities with their clients to improve their competitiveness, designing and implementing customized solutions to address them, and providing long-term knowledge transfer of new working methods through comprehensive mobile expertise in product, design, and development.",
     "logo": "bam_logo.png",
     "level": "silver",
     "url": "https://www.bam.tech/",
@@ -71,10 +61,8 @@
   {
     "key": "creative",
     "name": "Creative",
-    "description": {
-      "fr": "Creative",
-      "en": "Creative"
-    },
+    "description_fr": "Creative",
+    "description_en": "Creative",
     "logo": "",
     "level": "silver",
     "url": "http://www.groupe-creative.fr/",
