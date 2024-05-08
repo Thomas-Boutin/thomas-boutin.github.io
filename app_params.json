@@ -1,11 +1,11 @@
 {
-  static const contactEmail = 'contact@mobilis-in-mobile.io';
-  static const locationAddress1 = '41 Boulevard de la Prairie au Duc';
-  static const locationAddress2 = '44200 Nantes, FRANCE';
-  static const locationLatitude = 47.20454345368479;
-  static const locationLongitude = -1.560808920249304;
-  static const locationName = 'Mediacampus';
-  static const openFeedbackUrl = '';
-  static const ticketShopUrl = 'https://www.billetweb.fr/mobilis-in-mobile-2024';
-  static final eventDate = DateTime(2024, 6, 18);
+  "contactEmail": "contact@mobilis-in-mobile.io",
+  "locationAddress1": "41 Boulevard de la Prairie au Duc",
+  "locationAddress2": "44200 Nantes, FRANCE",
+  "locationLatitude": 47.20454345368479,
+  "locationLongitude": -1.560808920249304,
+  "locationName": "Mediacampus",
+  "openFeedbackUrl": "",
+  "ticketShopUrl": "https://www.billetweb.fr/mobilis-in-mobile-2024",
+  "eventDate": "2024-06-18T09:00:00.000Z",
 }
