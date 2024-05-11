@@ -5,6 +5,8 @@
   "locationLatitude": 47.20454345368479,
   "locationLongitude": -1.560808920249304,
   "locationName": "Mediacampus",
+  "eventsFileName": "slots2024.json",
+  "sponsorsFileName": "sponsors2024.json",
   "openFeedbackUrl": "",
   "ticketShopUrl": "https://www.billetweb.fr/mobilis-in-mobile-2024",
   "eventDate": "2024-06-18T09:00:00.000Z"
