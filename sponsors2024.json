@@ -4,7 +4,7 @@
     "name": "SNCF Connect & Tech",
     "description_fr": "SNCF Connect & Tech",
     "description_en": "SNCF Connect & Tech",
-    "logo": "",
+    "logo": "sncfconnect&tech.png",
     "level": "gold",
     "url": "https://www.sncf-connect.com/",
     "jobOffers": []
@@ -63,7 +63,7 @@
     "name": "Creative",
     "description_fr": "Creative",
     "description_en": "Creative",
-    "logo": "",
+    "logo": "logo_creative.png",
     "level": "silver",
     "url": "http://www.groupe-creative.fr/",
     "jobOffers": []
