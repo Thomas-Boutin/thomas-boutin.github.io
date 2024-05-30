@@ -19,12 +19,12 @@
     "url": "https://www.mobiapps.fr/",
     "jobOffers": [
       {
-        "title": "Développeur(se) Natif Android - iOS",
-        "link": "https://drive.google.com/file/d/1Q8cK8-w5vEX4Gdal0PcqtQvfp7xpcR_5/view"
+        "title": "Développeur(se) Web/ Mobile",
+        "link": "https://www.linkedin.com/jobs/search/?currentJobId=3808255912&distance=25&geoId=105015875&keywords=MobiappsFr&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true"
       },
       {
-        "title": "Développeur(se) Web - Mobile",
-        "link": "https://drive.google.com/file/d/1NlQZkgSpJlrzNNrAKY4QQQrCboxfDwyW/view"
+        "title": "Développeur(se) Android",
+        "link": "https://www.linkedin.com/jobs/search/?currentJobId=3808249754&distance=25&geoId=105015875&keywords=MobiappsFr&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true"
       }
     ]
   },
@@ -46,7 +46,16 @@
     "logo": "iris_logo.png",
     "level": "silver",
     "url": "https://ugieiris.fr/",
-    "jobOffers": []
+    "jobOffers": [
+      {
+        "title": "Lead dev",
+        "link": "https://www.linkedin.com/jobs/view/3932592353"
+      },
+      {
+        "title": "DevOps",
+        "link": "https://www.linkedin.com/jobs/view/3932593362"
+      }
+    ]
   },
   {
     "key": "bam",
