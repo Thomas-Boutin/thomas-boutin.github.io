@@ -2,12 +2,17 @@
   {
     "key": "sncf",
     "name": "SNCF Connect & Tech",
-    "description_fr": "SNCF Connect & Tech",
-    "description_en": "SNCF Connect & Tech",
+    "description_fr": "SNCF Connect & Tech est une filiale privée du Groupe SNCF. Cette filiale, basée à Lille, Nantes et Paris se présente comme le leader du numérique et du e-commerce français dans le secteur des mobilités, et réunit les compétences numériques au service du client. En s’appuyant sur l’expertise de + de 1000 collaborateurs appelés les #DigitalMobilityChangers, SNCF Connect & Tech a pour ambition d’innover pour rendre les mobilités durables accessibles à tous.\nSNCF Connect & Tech bénéficie de la solidité, de la stabilité et de la puissance du Groupe SNCF tout en conservant son indépendance et autonomie dans le choix des technologies utilisées, comme dans la définition de la culture d’entreprise qui lui est propre.\nSNCF Connect & Tech imagine, conçoit, développe, met en production et assure le bon fonctionnement des produits et services numériques de mobilités durables, à destination des voyageurs, des utilisateurs, des clients et des agents.\nNos collaborateurs ont également pour mission de faire connaître et faire vivre nos produits pour engager et fidéliser nos clients.",
+    "description_en": "SNCF Connect & Tech est une filiale privée du Groupe SNCF. Cette filiale, basée à Lille, Nantes et Paris se présente comme le leader du numérique et du e-commerce français dans le secteur des mobilités, et réunit les compétences numériques au service du client. En s’appuyant sur l’expertise de + de 1000 collaborateurs appelés les #DigitalMobilityChangers, SNCF Connect & Tech a pour ambition d’innover pour rendre les mobilités durables accessibles à tous.\nSNCF Connect & Tech bénéficie de la solidité, de la stabilité et de la puissance du Groupe SNCF tout en conservant son indépendance et autonomie dans le choix des technologies utilisées, comme dans la définition de la culture d’entreprise qui lui est propre.\nSNCF Connect & Tech imagine, conçoit, développe, met en production et assure le bon fonctionnement des produits et services numériques de mobilités durables, à destination des voyageurs, des utilisateurs, des clients et des agents.\nNos collaborateurs ont également pour mission de faire connaître et faire vivre nos produits pour engager et fidéliser nos clients.",
     "logo": "sncfconnect&tech.png",
     "level": "gold",
     "url": "https://www.sncf-connect.com/",
-    "jobOffers": []
+    "jobOffers": [
+      {
+        "title": "Toutes nos offres",
+        "link": "https://jobs.connect-tech.sncf/offers"
+      }
+    ]
   },
   {
     "key": "mobiapps",
