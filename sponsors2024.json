@@ -84,6 +84,15 @@
     "logo": "logo_creative.png",
     "level": "silver",
     "url": "http://www.groupe-creative.fr/",
-    "jobOffers": []
+    "jobOffers": [
+      {
+        "title": "AGILE MASTER EXPERIMENTE H/F",
+        "link": "https://drive.google.com/file/d/1RfBgrxYrk9cZLD453Ev7mP1QvLpYn7J-/view?usp=sharing"
+      },
+      {
+        "title": "INGENIEUR DEVOPS H/F",
+        "link": "https://drive.google.com/file/d/1zVtNglLpP_p6zssAyU5sI5qpg_Nl2mdl/view?usp=sharing"
+      }
+    ]
   }
 ]
