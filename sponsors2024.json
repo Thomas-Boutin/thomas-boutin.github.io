@@ -36,7 +36,16 @@
     "logo": "ippon_logo.png",
     "level": "gold",
     "url": "https://fr.ippon.tech/",
-    "jobOffers": []
+    "jobOffers": [
+      {
+        "title": "Développeur(se) MOBILE Confirmé (e) (H/F)",
+        "link": "https://drive.google.com/file/d/1HRf6qt3H1MEFeoch5qgyIS7McIRBUkaV/view?usp=drive_link"
+      },
+      {
+        "title": "Architecte MOBILE (H/F)",
+        "link": "https://drive.google.com/file/d/1I53saeO0j1EFVHMxMyq1ceOjpPM5bwEf/view?usp=drive_link"
+      }
+    ]
   },
   {
     "key": "uIris",
