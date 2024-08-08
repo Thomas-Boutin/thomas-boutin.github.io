@@ -17,6 +17,15 @@
       "sha256_cert_fingerprints": [
         "7F:92:C6:7B:B7:86:53:E7:0B:B1:6B:DF:56:46:3C:B0:B4:B8:45:52:41:EC:EB:55:02:35:96:69:2C:77:C3:F9"
       ]
-    }
+    },
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.thomas_boutin.twa",
+      "sha256_cert_fingerprints": [
+        "42:9D:4C:C9:98:B8:1A:4D:7A:DF:F3:A2:F0:FD:43:4B:27:81:28:F2:97:D4:51:F6:13:AA:DF:D2:3D:27:E6:32"
+      ]
+    }  
   }
 ]
