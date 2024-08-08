@@ -4,9 +4,14 @@
     <link rel="manifest" href="manifest.webmanifest" />
     <title>This is the title of the webpage!</title>
   </head>
+  <script>
+    function replaceURL() {
+      window.location.replace("https://bornesmsu-ulivreur.app.rec.gcp.groupement.systeme-u.fr/");
+    }
+  </script>
   <body>
     <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
     <a href="gaga://lol.com">Test intent url</a>
-    <a href="https://thomas-boutin.github.io/login">Test play redirect</a>
+    <button onClick="replaceURL()">Test play redirect</button>
   </body>
 </html>
