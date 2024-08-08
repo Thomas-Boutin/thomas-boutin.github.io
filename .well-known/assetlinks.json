@@ -9,7 +9,7 @@
       ]
     }
   },
-    {
+  {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
@@ -17,8 +17,9 @@
       "sha256_cert_fingerprints": [
         "7F:92:C6:7B:B7:86:53:E7:0B:B1:6B:DF:56:46:3C:B0:B4:B8:45:52:41:EC:EB:55:02:35:96:69:2C:77:C3:F9"
       ]
-    },
-    {
+    }
+  },
+  {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
