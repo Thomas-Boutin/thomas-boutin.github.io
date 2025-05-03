@@ -1,0 +1,58 @@
+[
+  {
+    "description": "Initiatives Mobiles Éco-Responsables",
+    "icon": "🔄"
+  },
+  {
+    "description": "IoT / Data / IA",
+    "icon": "🖊️"
+  },
+  {
+    "description": "PWA, No Code et Solutions Alternatives",
+    "icon": "🎮"
+  },
+  {
+    "description": "Framework Natifs",
+    "icon": "🏥"
+  },
+  {
+    "description": "Frameworks Multiplateformes",
+    "icon": "⌚"
+  },
+  {
+    "description": "Product",
+    "icon": "🔧"
+  },
+  {
+    "description": "CI/CD Mobile",
+    "icon": "🍃"
+  },
+  {
+    "description": "UX / UI Mobile",
+    "icon": "🚀"
+  },
+  {
+    "description": "ReX : Histoires d\"Échecs et de Succès",
+    "icon": "📱"
+  },
+  {
+    "description": "Gaming",
+    "icon": "🎙️"
+  },
+  {
+    "description": "AR / VR / XR",
+    "icon": "🛒"
+  },
+  {
+    "description": "MobileOps",
+    "icon": "🖥️"
+  },
+  {
+    "description": "Security & Privacy",
+    "icon": "🔐"
+  },
+  {
+    "description": "Autre",
+    "icon": "⭐"
+  },
+]
