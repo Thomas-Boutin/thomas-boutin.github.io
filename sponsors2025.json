@@ -1,0 +1,42 @@
+[
+  {
+    "key": "mobiapps",
+    "name": "Mobiapps",
+    "description_fr": "MobiappsFr est une agence Mobile dédiée à la gestion d’infrastructures mobiles (EMM, MDM, sécurité…), à la conception (UX/UI), au développement d’applications mobiles multiplateformes (iOS, Android, web) et aux tests, basée à Nantes, Angers et Paris.\nLeur force est de proposer à leurs clients une approche et une méthodologie alliant innovation et industrialisation, en adéquation avec les besoins utilisateurs et les dernières technologies du marché.",
+    "description_en": "MobiappsFr is a Mobile agency dedicated to mobile infrastructure management (EMM, MDM, security...), design (UX/UI), development of multi-platform mobile applications (iOS, Android, web), and testing, based in Nantes, Angers, and Paris.\nTheir strength lies in offering their clients an approach and methodology that combines innovation and industrialization, in line with user needs and the latest market technologies.",
+    "logo": "mobiapps_logo.png",
+    "level": "gold",
+    "url": "https://www.mobiapps.fr/",
+    "jobOffers": []
+  },
+  {
+    "key": "axeptio",
+    "name": "Axeptio",
+    "description_fr": "Axeptio vous propose de créer une expérience de consentement positive, celle qui respecte pleinement le RGPD, celle qui offre de véritables choix à vos utilisateurs, celle qui crée une préférence pour votre marque.\nCollectez des données avec le consentement de vos utilisateurs de manière transparente et conviviale.\nAxeptio est une CMP partenaire Gold de Google, compatible avec Google Consent Mode v2, Microsoft UET, IAB TCF, Shopify, Wordpress.",
+    "description_en": "Axeptio offers you the opportunity to create a positive consent experience, one that fully complies with the RGPD, one that offers your users real choices, one that creates a preference for your brand\nCollect data with your users' consent in a transparent and user-friendly way.\nAxeptio is a Google Gold Partner CMP, compatible with Google Consent Mode v2, Microsoft UET, IAB TCF, Shopify, Wordpress.",
+    "logo": "ippon_logo.png",
+    "level": "gold",
+    "url": "https://www.axept.io",
+    "jobOffers": []
+  },
+  {
+    "key": "uIris",
+    "name": "U Iris",
+    "description_fr": "U IRIS est la Direction des Systèmes d’Information du Groupement SYSTEME U.\nCréée en 2011, elle regroupe aujourd’hui 540 personnes.\nElle gère au quotidien 36 000 terminaux mobiles Samsung et Zebra grâce à la solution SOTI MobiControl, pour 1 600 points de vente, une 30aine d'entrepôts et les entités commerciales du Groupement U.\nEn termes de technos de dév, U IRIS développe la plupart de ses solutions en Kotlin et Vue.js.",
+    "description_en": "U IRIS is the Information Systems Directorate of the SYSTEME U Group.\nEstablished in 2011, it currently employs 540 people.\nOn a daily basis, it manages 36,000 Samsung and Zebra mobile devices using the SOTI MobiControl solution, covering 1,600 points of sale, around 30 warehouses, and the commercial entities of the U Group.\nIn terms of development technologies, U IRIS primarily develops its solutions using Kotlin and Vue.js.",
+    "logo": "iris_logo.png",
+    "level": "silver",
+    "url": "https://ugieiris.fr/",
+    "jobOffers": []
+  },
+  {
+    "key": "creative",
+    "name": "Creative",
+    "description_fr": "Creative",
+    "description_en": "Creative",
+    "logo": "logo_creative.png",
+    "level": "silver",
+    "url": "http://www.groupe-creative.fr/",
+    "jobOffers": []
+  }
+]
