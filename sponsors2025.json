@@ -20,6 +20,16 @@
     "jobOffers": []
   },
   {
+    "key": "swiftconnection",
+    "name": "Swift Connection",
+    "description_fr": "Swift Connection, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies, and previously known as FrenchKit, returns to the Théâtre de Paris.",
+    "description_en": "Swift Connection, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies, and previously known as FrenchKit, returns to the Théâtre de Paris.",
+    "logo": "Badge with Date Light.png",
+    "level": "commu",
+    "url": "https://swiftconnection.io/",
+    "jobOffers": []
+  },
+  {
     "key": "uIris",
     "name": "U Iris",
     "description_fr": "U IRIS est la Direction des Systèmes d’Information du Groupement SYSTEME U.\nCréée en 2011, elle regroupe aujourd’hui 540 personnes.\nElle gère au quotidien 36 000 terminaux mobiles Samsung et Zebra grâce à la solution SOTI MobiControl, pour 1 600 points de vente, une 30aine d'entrepôts et les entités commerciales du Groupement U.\nEn termes de technos de dév, U IRIS développe la plupart de ses solutions en Kotlin et Vue.js.",
