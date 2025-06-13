@@ -23,7 +23,7 @@
     "name": "Axeptio",
     "description_fr": "Axeptio vous propose de créer une expérience de consentement positive, celle qui respecte pleinement le RGPD, celle qui offre de véritables choix à vos utilisateurs, celle qui crée une préférence pour votre marque.\nCollectez des données avec le consentement de vos utilisateurs de manière transparente et conviviale.\nAxeptio est une CMP partenaire Gold de Google, compatible avec Google Consent Mode v2, Microsoft UET, IAB TCF, Shopify, Wordpress.",
     "description_en": "Axeptio offers you the opportunity to create a positive consent experience, one that fully complies with the RGPD, one that offers your users real choices, one that creates a preference for your brand\nCollect data with your users' consent in a transparent and user-friendly way.\nAxeptio is a Google Gold Partner CMP, compatible with Google Consent Mode v2, Microsoft UET, IAB TCF, Shopify, Wordpress.",
-    "logo": "ippon_logo.png",
+    "logo": "axeptio.png",
     "level": "gold",
     "url": "https://www.axept.io",
     "jobOffers": []
