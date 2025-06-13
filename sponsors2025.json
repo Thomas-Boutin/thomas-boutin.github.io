@@ -7,26 +7,25 @@
     "logo": "mobiapps_logo.png",
     "level": "gold",
     "url": "https://www.mobiapps.fr/",
-    "jobOffers": []
+    "jobOffers": [
+      {
+        "title": "Développeur(se) Android Kotlin",
+        "link": "https://drive.google.com/file/d/19QibfF5dE66MNKBA33xnA9ZYy2VrmFVq/view?usp=sharing"
+      },
+      {
+        "title": "Développeur(se) Web Mobile",
+        "link": "https://drive.google.com/file/d/1IkKohDMqlugI-QNE_H3CpDyZt0aHbgVM/view?usp=sharing"
+      }
+    ]
   },
   {
     "key": "axeptio",
     "name": "Axeptio",
     "description_fr": "Axeptio vous propose de créer une expérience de consentement positive, celle qui respecte pleinement le RGPD, celle qui offre de véritables choix à vos utilisateurs, celle qui crée une préférence pour votre marque.\nCollectez des données avec le consentement de vos utilisateurs de manière transparente et conviviale.\nAxeptio est une CMP partenaire Gold de Google, compatible avec Google Consent Mode v2, Microsoft UET, IAB TCF, Shopify, Wordpress.",
     "description_en": "Axeptio offers you the opportunity to create a positive consent experience, one that fully complies with the RGPD, one that offers your users real choices, one that creates a preference for your brand\nCollect data with your users' consent in a transparent and user-friendly way.\nAxeptio is a Google Gold Partner CMP, compatible with Google Consent Mode v2, Microsoft UET, IAB TCF, Shopify, Wordpress.",
-    "logo": "axeptio.png",
+    "logo": "ippon_logo.png",
     "level": "gold",
     "url": "https://www.axept.io",
-    "jobOffers": []
-  },
-  {
-    "key": "swiftconnection",
-    "name": "Swift Connection",
-    "description_fr": "Swift Connection, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies, and previously known as FrenchKit, returns to the Théâtre de Paris.",
-    "description_en": "Swift Connection, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies, and previously known as FrenchKit, returns to the Théâtre de Paris.",
-    "logo": "Badge with Date Light.png",
-    "level": "commu",
-    "url": "https://swiftconnection.io/",
     "jobOffers": []
   },
   {
