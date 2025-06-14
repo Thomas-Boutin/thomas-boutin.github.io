@@ -19,6 +19,16 @@
     ]
   },
   {
+    "key": "swiftconnection",
+    "name": "Swift Connection",
+    "description_fr": "Swift Connection, la conférence française dédiée à Swift, iOS, macOS et aux écosystèmes des technologies Apple, et précédemment connue sous le nom de FrenchKit, revient au Théâtre de Paris.",
+    "description_en": "Swift Connection, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies, and previously known as FrenchKit, returns to the Théâtre de Paris.",
+    "logo": "Badge with Date Light.png",
+    "level": "commu",
+    "url": "https://swiftconnection.io/",
+    "jobOffers": []
+  },
+  {
     "key": "axeptio",
     "name": "Axeptio",
     "description_fr": "Axeptio vous propose de créer une expérience de consentement positive, celle qui respecte pleinement le RGPD, celle qui offre de véritables choix à vos utilisateurs, celle qui crée une préférence pour votre marque.\nCollectez des données avec le consentement de vos utilisateurs de manière transparente et conviviale.\nAxeptio est une CMP partenaire Gold de Google, compatible avec Google Consent Mode v2, Microsoft UET, IAB TCF, Shopify, Wordpress.",
